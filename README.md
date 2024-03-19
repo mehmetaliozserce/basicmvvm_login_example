@@ -7,7 +7,7 @@ _Bu proje, Flutter kullanarak MVVM mimarisiyle geliştirilmiş animasyonlu bir g
 
 ## LinkedIn
 
-[LinkedIn Profilim](https://www.linkedin.com/in/mehmetaliozserce/)
+[LinkedIn Profile](https://www.linkedin.com/in/mehmetaliozserce/)
 
 ## **Getting Started**/Başlangıç
 
@@ -34,5 +34,5 @@ _Projeyi yerel makinenizde çalıştırmak için adımlar:_
 - _Depoyu klonlayın:_
 
 ```
-git clone https://github.com/mehmetaliozserce/basic_mvvm_login.git
+git clone https://github.com/mehmetaliozserce/basicmvvm_login_example.git
 ```
